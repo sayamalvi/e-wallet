@@ -79,3 +79,5 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+
+<img width="1000" alt="Screenshot_2024-03-23_at_6 35 20_PM" src="https://github.com/sayamalvi/e-wallet/assets/52599441/f90505e3-30a6-474f-8eba-7987b9827849">
