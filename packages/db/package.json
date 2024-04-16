@@ -10,10 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pg": "^8.11.5"
+    "@prisma/client": "^5.12.1"
   },
   "devDependencies": {
-    "@types/pg": "^8.11.5"
+    "@types/pg": "^8.11.5",
+    "prisma": "^5.12.1"
   },
   "exports": {
     "./client": "./src/index.ts"
